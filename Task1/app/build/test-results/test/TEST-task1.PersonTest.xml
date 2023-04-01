@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="task1.PersonTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-03-15T09:37:47" hostname="LAPTOP-FKH7M06D" time="0.056">
+  <properties/>
+  <testcase name="testName()" classname="task1.PersonTest" time="0.047"/>
+  <testcase name="testNegativeAge1()" classname="task1.PersonTest" time="0.002"/>
+  <testcase name="testSetAge()" classname="task1.PersonTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
