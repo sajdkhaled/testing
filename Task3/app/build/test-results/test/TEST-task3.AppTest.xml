@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="task3.AppTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2023-03-22T09:33:52" hostname="LAPTOP-FKH7M06D" time="0.184">
+  <properties/>
+  <testcase name="[1] 0, 1, 2, 1" classname="task3.AppTest" time="0.098"/>
+  <testcase name="[2] 1, 2, 3, 2" classname="task3.AppTest" time="0.002"/>
+  <testcase name="[3] 9, 2, 10, 7" classname="task3.AppTest" time="0.003"/>
+  <testcase name="[1] 1, 2, 3, 3" classname="task3.AppTest" time="0.002"/>
+  <testcase name="[2] 4, 5, 6, 6" classname="task3.AppTest" time="0.002"/>
+  <testcase name="[3] 5, 8, 7, 8" classname="task3.AppTest" time="0.002"/>
+  <testcase name="[1] 1, 2, 3, 1" classname="task3.AppTest" time="0.004"/>
+  <testcase name="[2] 4, 5, 6, 4" classname="task3.AppTest" time="0.003"/>
+  <testcase name="[3] 5, 8, 7, 5" classname="task3.AppTest" time="0.003"/>
+  <testcase name="[1] 0, 1, 2, 1" classname="task3.AppTest" time="0.002"/>
+  <testcase name="[2] 1, 2, 3, 2" classname="task3.AppTest" time="0.003"/>
+  <testcase name="[3] 4, 1, 10, 4" classname="task3.AppTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
